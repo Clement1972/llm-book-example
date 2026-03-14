@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "my-weather":{
+      "command": "python",
+      "args": [
+        "c:/data/mcp/mcp_weather.py"
+      ]
+    },
+    "my-file":{
+      "command": "python",
+      "args": [
+        "c:/data/mcp/mcp_file_reader.py"
+      ]
+    }
+  }
+}

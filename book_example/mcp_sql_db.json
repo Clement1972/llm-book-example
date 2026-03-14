@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "mydb": {
+            "command": "python",
+            "args": [
+                "c:/data/mcp/mcp_sql_db.py",
+                "c:/data/mcp/sample_sales.db"
+            ]
+        }
+    }
+}
