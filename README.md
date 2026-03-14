@@ -3,6 +3,8 @@
 
 這本書是我在Tibame, 工研院, 實踐大學推廣中心的課程內容中整理並彙整的成果。
 
+![書本封面](https://deepwisdom.com.tw/wp-content/uploads/2026/03/DM2621_banner_500x500.jpg)
+
 你可以在下面的購物網中買到這本書：
 - https://www.tenlong.com.tw/products/9786267757895
 - https://www.books.com.tw/products/0011047059
